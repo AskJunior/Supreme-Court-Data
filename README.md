@@ -6,7 +6,7 @@ This repository contains a collection of judgments from the Supreme Court of Ind
 
 The repository is structured as follows:
 
-supreme-court-judgments/
+```supreme-court-judgments/
 ├── data1 (1950-1969)
 ├── data2 (1970-1979)
 ├── data3 (1980-1989)
@@ -16,7 +16,8 @@ supreme-court-judgments/
 ├── data7 (2020-2023)
 ├── data8 (2024-present)
 ├── index.ipynb
-└── README.md
+└── README.
+```
 
 Each `data` folder contains judgment files in a standardized format (e.g., PDF, text, or other commonly used formats). The files are named according to a consistent convention, making it easier to identify and access specific judgments.
 
@@ -67,6 +68,6 @@ For any queries or issues regarding the repository, please contact [Your Contact
 ### Resources
 
 - [Supreme Court of India Official Website](https://www.sci.gov.in)
-- [Other Relevant Links or References]
+- [Ask Junior](https://www.askjunior.ai/)
 
 Feel free to explore the repository and utilize the data in accordance with the applicable laws and regulations.
