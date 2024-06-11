@@ -16,7 +16,7 @@ The repository is structured as follows:
 ├── data7 (2020-2023)
 ├── data8 (2024-present)
 ├── index.ipynb
-└── README.
+└── README.md
 ```
 
 Each `data` folder contains judgment files in a standardized format (e.g., PDF, text, or other commonly used formats). The files are named according to a consistent convention, making it easier to identify and access specific judgments.
