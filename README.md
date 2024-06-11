@@ -18,7 +18,6 @@ supreme-court-judgments/
 ├── index.ipynb
 └── README.md
 
-
 Each `data` folder contains judgment files in a standardized format (e.g., PDF, text, or other commonly used formats). The files are named according to a consistent convention, making it easier to identify and access specific judgments.
 
 ## Data Sources and Updates
