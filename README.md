@@ -63,7 +63,7 @@ For those interested in the technical aspects of data collection, the `index.ipy
 
 ### Contact
 
-For any queries or issues regarding the repository, please contact [Your Contact Information].
+For any queries or issues regarding the repository, please contact [satish@askjunior.ai].
 
 ### Resources
 
